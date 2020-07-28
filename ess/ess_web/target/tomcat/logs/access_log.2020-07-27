@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [27/Jul/2020:13:05:08 +0800] "GET /ess_web HTTP/1.1" 302 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [27/Jul/2020:13:05:09 +0800] "GET /ess_web/ HTTP/1.1" 200 205 http-bio-8080-exec-3 578
+0:0:0:0:0:0:0:1 - - [27/Jul/2020:13:05:13 +0800] "POST /ess_web/account/findByUsername.do HTTP/1.1" 200 85 http-bio-8080-exec-4 782
+0:0:0:0:0:0:0:1 - - [27/Jul/2020:13:06:23 +0800] "POST /ess_web/account/findByUsername.do HTTP/1.1" 200 111 http-bio-8080-exec-6 82

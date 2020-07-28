@@ -12,12 +12,13 @@
     <title>Title</title>
 </head>
 <body>
-<c:forEach items="${students}" var="student">
+<%--<c:forEach items="${accounts}" var="account">
     <tr>
-        <td>${student.id }</td>
-        <td>${student.sname }</td>
-        <td>${student.sage}</td>
+        <td>${account.username }</td>
+        <td>${account.pwd}</td>
     </tr>
-</c:forEach>
+</c:forEach>--%>
+
+${account.toString()}
 </body>
 </html>

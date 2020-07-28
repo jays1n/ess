@@ -1,17 +1,31 @@
 package com.gdut.ess.domain;
 
+import java.util.List;
+
 public class Account {
     private String id;
     private String username;
     private String pwd;
+    private List<DormUser> dormUsers;
+    private List<UserRole> userRoles;
 
     public Account() {
     }
 
-    public Account(String id, String username, String pwd) {
-        this.id = id;
-        this.username = username;
-        this.pwd = pwd;
+    public List<UserRole> getUserRoles() {
+        return userRoles;
+    }
+
+    public void setUserRoles(List<UserRole> userRoles) {
+        this.userRoles = userRoles;
+    }
+
+    public List<DormUser> getDormUsers() {
+        return dormUsers;
+    }
+
+    public void setDormUsers(List<DormUser> dormUsers) {
+        this.dormUsers = dormUsers;
     }
 
     public String getId() {

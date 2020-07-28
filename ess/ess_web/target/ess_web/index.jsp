@@ -2,7 +2,8 @@
          pageEncoding="UTF-8"%>
 <html>
 <body>
-<form action="http://localhost:8080/ess_web/student/findAll.do" method="post">
+<form action="http://localhost:8080/ess_web/account/findByUsername.do" method="post">
+    <input type="text" name="username">
     <input type="submit" value="query"/>
 </form>
 </body>

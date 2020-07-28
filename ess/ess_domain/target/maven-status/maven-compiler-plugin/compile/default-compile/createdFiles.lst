@@ -1,1 +1,10 @@
-com\gdut\ess\domain\Student.class
+com\gdut\ess\domain\UserRole.class
+com\gdut\ess\domain\Dorm.class
+com\gdut\ess\domain\DormUser.class
+com\gdut\ess\domain\WaterPerday.class
+com\gdut\ess\domain\Payment.class
+com\gdut\ess\domain\EletPerday.class
+com\gdut\ess\domain\EletWater.class
+com\gdut\ess\domain\Syslog.class
+com\gdut\ess\domain\Account.class
+com\gdut\ess\domain\Permission.class

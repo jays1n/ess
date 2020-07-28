@@ -1,1 +1,10 @@
-D:\ess\ess_dao\src\main\java\com\gdut\ess\dao\IStudentDao.java
+D:\ess\ess_dao\src\main\java\com\gdut\ess\dao\ISyslogDao.java
+D:\ess\ess_dao\src\main\java\com\gdut\ess\dao\IAccountDao.java
+D:\ess\ess_dao\src\main\java\com\gdut\ess\dao\IEletWaterDao.java
+D:\ess\ess_dao\src\main\java\com\gdut\ess\dao\IEletPerdayDao.java
+D:\ess\ess_dao\src\main\java\com\gdut\ess\dao\IUserRoleDao.java
+D:\ess\ess_dao\src\main\java\com\gdut\ess\dao\IWaterPerdayDao.java
+D:\ess\ess_dao\src\main\java\com\gdut\ess\dao\IDormUserDao.java
+D:\ess\ess_dao\src\main\java\com\gdut\ess\dao\IPermissionDao.java
+D:\ess\ess_dao\src\main\java\com\gdut\ess\dao\IPaymentDao.java
+D:\ess\ess_dao\src\main\java\com\gdut\ess\dao\IDormDao.java

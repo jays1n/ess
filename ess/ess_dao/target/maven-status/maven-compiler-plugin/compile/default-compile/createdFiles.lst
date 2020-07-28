@@ -1,1 +1,10 @@
-com\gdut\ess\dao\IStudentDao.class
+com\gdut\ess\dao\IUserRoleDao.class
+com\gdut\ess\dao\IPaymentDao.class
+com\gdut\ess\dao\ISyslogDao.class
+com\gdut\ess\dao\IEletWaterDao.class
+com\gdut\ess\dao\IAccountDao.class
+com\gdut\ess\dao\IDormDao.class
+com\gdut\ess\dao\IDormUserDao.class
+com\gdut\ess\dao\IPermissionDao.class
+com\gdut\ess\dao\IWaterPerdayDao.class
+com\gdut\ess\dao\IEletPerdayDao.class
